@@ -1,0 +1,5 @@
+IV:x1_lca,x2_lca,x3_lca
+DV:dx1_lca
+CV:
+Sequence:experiment_0_sequence.csv
+Data:experiment_0_data.csv

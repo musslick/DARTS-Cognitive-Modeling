@@ -1,0 +1,11 @@
+theorist,model_file_name,arch_file_name,num_graph_node,arch_weight_decay,num_params,num_edges,loss,BIC,validation loss
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_0,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_0,2,0.025,3,0,0.2781012,7374.956,0.1321749
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_1,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_1,2,0.025,3,0,0.27606702,7363.689,0.13160181
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_2,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_2,2,0.025,3,0,0.27361265,7350.89,0.13091785
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_3,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_3,2,0.025,3,0,0.27300608,7348.003,0.13075007
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_4,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample0_4,2,0.025,3,0,0.27953523,7382.7573,0.13258228
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_0,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_0,2,0.025,6,4,2.1992496e-06,4457.272,1.08160675e-05
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_1,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_1,2,0.025,6,4,6.552162e-05,4458.5913,4.1893778e-05
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_2,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_2,2,0.025,6,4,1.3913671e-05,4456.8433,9.298479e-06
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_3,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_3,2,0.025,6,4,7.4515447e-06,4456.874,6.1804094e-06
+random_darts,model_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_4,architecture_weights_random_darts_v_1_wd_0.025_k_2_s_1.0_sample1_4,2,0.025,6,4,0.00011622819,4459.108,9.109042e-05

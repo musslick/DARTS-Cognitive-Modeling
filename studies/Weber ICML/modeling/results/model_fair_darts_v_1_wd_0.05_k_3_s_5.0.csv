@@ -1,0 +1,6 @@
+theorist,model_file_name,arch_file_name,num_graph_node,arch_weight_decay,num_params,num_edges,loss,BIC,validation loss
+fair_darts,model_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_0,architecture_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_0,3,0.05,6,7,4.4680975e-05,4476.816,0.0004952821
+fair_darts,model_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_1,architecture_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_1,3,0.05,6,7,0.0007890995,4534.3916,0.0019056062
+fair_darts,model_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_2,architecture_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_2,3,0.05,6,7,3.1961732e-05,4468.1064,0.0003014085
+fair_darts,model_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_3,architecture_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_3,3,0.05,6,7,0.00039907167,4652.657,0.0071877837
+fair_darts,model_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_4,architecture_weights_fair_darts_v_1_wd_0.05_k_3_s_5.0_sample0_4,3,0.05,6,7,0.0010923479,4548.9507,0.0020785516

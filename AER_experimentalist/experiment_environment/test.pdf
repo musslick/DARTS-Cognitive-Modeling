@@ -1,0 +1,20 @@
+digraph {
+	node [align=center fontname=times fontsize=20 height=0.5 penwidth=2 shape=rect style=filled width=0.5]
+	edge [fontname=times fontsize=20 penwidth=3]
+rankdir=LR
+	x_0 [fillcolor="#F1EDB9"]
+	x_1 [fillcolor="#F1EDB9"]
+	x_2 [fillcolor="#BBCCF9"]
+	x_3 [fillcolor="#BBCCF9"]
+	r [fillcolor="#CBE7C7"]
+	edge [color="#4472C4"]
+	x_0 -> x_2 [label="0.5 * x" fillcolor="#4472C4"]
+	edge [color="#CC6677"]
+	x_0 -> x_3 [label="-x" fillcolor="#CC6677"]
+	edge [color="#44AA99"]
+	x_1 -> x_3 [label="+x" fillcolor="#44AA99"]
+	edge [color="#4472C4"]
+	x_2 -> r [label="-1 * x" fillcolor="#4472C4"]
+	edge [color="#4472C4"]
+	x_3 -> r [label="1 * x" fillcolor="#4472C4"]
+}
